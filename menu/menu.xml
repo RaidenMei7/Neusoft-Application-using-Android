@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/essay"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_essay"
+        android:enabled="true"
+        android:title="Paper"/>
+
+    <item android:id="@+id/swf"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_swf"
+        android:enabled="true"
+        android:title="switch~"/>
+
+    <item android:id="@+id/video"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_video"
+        android:enabled="true"
+        android:title="Clips"/>
+    <item android:id="@+id/cse"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_case"
+        android:enabled="true"
+        android:title="example"/>
+    <item android:id="@+id/owner"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_owner"
+        android:enabled="true"
+        android:title="OwnCenter"/>
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="收藏"
+        android:id="@+id/menucollect"
+        app:showAsAction="always|withText" />
+
+    <item android:title="关注"
+        android:id="@+id/menufocus"
+        app:showAsAction="always|withText" />
+
+</menu>
